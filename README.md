@@ -1,0 +1,2 @@
+# CSDC100-PRE-FINALS
+CSDC100 PRE FINALS about GenAI FAQs &amp; Ethical use of AI

@@ -21,6 +21,8 @@ GitHub (obviously) - https://github.com
 ![Analogy](screenshots/analogy.png)
 ![Navigation](screenshots/navigation.png)
 
+Visit my site here!
+https://jei-cs.github.io/
 
 
 

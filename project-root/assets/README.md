@@ -1,4 +1,4 @@
-# ==== GenAI FAQs & Ethical Considerations on it's Usage ====
+<img width="635" height="315" alt="image" src="https://github.com/user-attachments/assets/5187f9b8-b9b8-43ff-a14f-d9dd5268f316" /># ==== GenAI FAQs & Ethical Considerations on it's Usage ====
 
 ## Overview
 Hello and welcome to my website about Generative AI. It covers common questions about GenAI and discusses it's ethical risks and proper usage. I hope this website help make you understand GenAI better surrounding it's use.
@@ -22,7 +22,8 @@ GitHub (obviously) - https://github.com
 ![Navigation](screenshots/navigation.png)
 
 Visit my site here!
-https://jei-cs.github.io/
+https://jei-cs-csdc100-pre-finals.netlify.app
+
 
 
 
